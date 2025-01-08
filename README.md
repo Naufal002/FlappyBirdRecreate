@@ -41,4 +41,17 @@ Jalankan game menggunakan tombol Play di Unity Editor.</p>
 
 <h2></h2>
 
+![Screenshot 2025-01-08 223508](https://github.com/user-attachments/assets/0dc5de29-7931-4042-aa72-be952daa3a67)
+
+<h2></h2>
+
+![Screenshot 2025-01-08 223435](https://github.com/user-attachments/assets/3b21c3fe-b3d1-4de6-a340-cbec6cdb35ec)
+
+<h2></h2>
+
 ![Screenshot 2025-01-08 230519](https://github.com/user-attachments/assets/9089f759-87a7-4c89-ad86-687bda62ee2a)
+
+<h2></h2>
+
+![Screenshot 2025-01-08 230616](https://github.com/user-attachments/assets/4434e0bf-3e80-4526-90f7-73eb74fbdd02)
+
