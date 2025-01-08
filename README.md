@@ -30,7 +30,7 @@ bash
 Copy code</p>
 
 ```bash
-git clone https://github.com/username/flappy-bird-clone.git
+git clone https://github.com/Naufal002/FlappyBirdRecreate.git
 ```
 <p>
 Buka folder proyek di Unity.
