@@ -14,7 +14,7 @@ Restart Game: Fitur untuk memulai ulang permainan setelah pemain kalah.</p>
 Mengimplementasikan konsep seperti Physics2D, Object Pooling, dan Collision Detection.
 Meningkatkan keterampilan scripting menggunakan C#.</p>
 
-<h2>🛠️ Teknologi yang Digunakan</h2>
+<h2>🛠️ Tools yang Digunakan</h2>
 
 <p>Unity Engine: Sebagai Game Enggine.</p>
 <p>C#: Untuk scripting mekanisme permainan.</p>
