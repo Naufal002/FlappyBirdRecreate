@@ -16,8 +16,10 @@ Meningkatkan keterampilan scripting menggunakan C#.</p>
 
 <h2>🛠️ Teknologi yang Digunakan</h2>
 
-<p>Unity Engine: Versi [sebutkan versi Unity yang digunakan].
-C#: Untuk scripting mekanisme permainan.</p>
+<p>Unity Engine: Sebagai Game Enggine.</p>
+<p>C#: Untuk scripting mekanisme permainan.</p>
+<p>Visual Studio: Sebagai text editor untuk membuat blok kode C#.</p>
+<p>Adobe Photoshop: Untuk membuat beberapa asset yang diperlukan.</p>
 
 <h2>📂 Struktur Proyek</h2>
 <p>Assets/Scripts: Berisi semua script yang digunakan untuk mekanisme permainan.</p>
@@ -42,6 +44,10 @@ Jalankan game menggunakan tombol Play di Unity Editor.</p>
 <h2></h2>
 
 ![Screenshot 2025-01-08 223508](https://github.com/user-attachments/assets/0dc5de29-7931-4042-aa72-be952daa3a67)
+
+<h2></h2>
+
+![Screenshot 2025-01-08 223452](https://github.com/user-attachments/assets/a550530f-bdd2-4150-8b14-404f2d08a3ca)
 
 <h2></h2>
 
